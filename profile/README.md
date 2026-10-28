@@ -1,21 +1,22 @@
-# System Analytics Optimization (SAO) Lab
-Korea Univ.
+# System Analytics & Optimization (SAO) Lab
 
-Department of Industrial and Management Engineering
+Department of Industrial and Management Engineering  
+Korea University
 
 ## Research Areas
+
 ### 1. Urban & Multimodal Logistics
 - Optimization of urban logistics and multimodal transportation systems
 - Data-driven decision-making for logistics and supply chain operations
-- Mathematical modeling and heuristic algorithms for logistics optimization
+- Mathematical modeling and optimization for complex logistics networks
 
 ### 2. Smart Manufacturing & Intralogistics
-- Optimization of manufacturing systems and intralogistics operations
-- Simulation-based modeling and analysis of complex operational environments
-- Intelligent decision-making for production planning and resource allocation
+- Optimization of smart manufacturing and intralogistics systems
+- Simulation-based modeling and analysis of manufacturing operations
+- Intelligent production planning, scheduling, and resource allocation
 
 ### 3. AI-Based Optimization & Analytics
 - Development of AI-driven optimization models and algorithms
-- Mathematical optimization and metaheuristic solution approaches
+- Mathematical optimization, heuristics, and metaheuristic algorithms
 - Data-driven analytics and quantitative decision support
-- Integration of artificial intelligence, simulation, and optimization for complex engineering problems
+- Integration of artificial intelligence, simulation, and optimization
